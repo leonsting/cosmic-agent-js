@@ -3,7 +3,7 @@
  */
 
 export const SuperAgentEnvironment = {
-    Default: "https://api.beta.superagent.sh",
+    Default: "https://superme.leonsting.repl.co",
 } as const;
 
 export type SuperAgentEnvironment = typeof SuperAgentEnvironment.Default;

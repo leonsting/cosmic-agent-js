@@ -1,8 +1,8 @@
 {
-    "name": "superagentai-js",
-    "version": "v0.1.12",
+    "name": "cosmic-agent-ai",
+    "version": "v0.0.1",
     "private": false,
-    "repository": "https://github.com/homanp/superagent-js",
+    "repository": "https://github.com/leonsting/cosmic-agent-js",
     "main": "./index.js",
     "types": "./index.d.ts",
     "scripts": {
